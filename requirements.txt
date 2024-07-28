@@ -1,0 +1,4 @@
+discord.py
+pycld2==0.41
+deepl
+git+https://github.com/Rapptz/discord.py
